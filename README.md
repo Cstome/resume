@@ -1,4 +1,4 @@
-# WQQ的简历  
+# 王庆庆的简历  
 
 ## 个人信息  
   北京|1996年生|前端工程师  
@@ -9,8 +9,11 @@
   使用了Flex 布局制作的响应式页面。  
 2.canvas画板  
   使用原生 JS，借助 Canvas API 和动态 REM 方案（flexible.js）制作的手机画板。  
+  [查看](https://lxz096.github.io/canvas/画板.html)
+
 3.苹果风格的轮播组件（轮播）  
-  使用 jQuery 制作的苹果风格轮播。  
+  使用 jQuery 制作的苹果风格轮播。 
+  
 4.英雄联盟官网仿制  
   使用 jQuery、Slides.js、自制的 Tab 组件。  
 ## 我的技能  
