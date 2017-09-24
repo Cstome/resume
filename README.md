@@ -6,14 +6,13 @@
   GitHub:  github.com/lxz  
 ## 项目经历  
 1.使命召唤人设页面（简单的页面）  
-  使用了Flex 布局制作的响应式页面。  
+  使用了Flex 布局制作的响应式页面。 
+  [查看](https://lxz096.github.io/esay-page/简单页面.html)
 2.canvas画板  
   使用原生 JS，借助 Canvas API 和动态 REM 方案（flexible.js）制作的手机画板。  
   [查看](https://lxz096.github.io/canvas/画板.html)
-
 3.苹果风格的轮播组件（轮播）  
-  使用 jQuery 制作的苹果风格轮播。 
-  
+  使用 jQuery 制作的苹果风格轮播。  
 4.英雄联盟官网仿制  
   使用 jQuery、Slides.js、自制的 Tab 组件。  
 ## 我的技能  
