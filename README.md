@@ -2,19 +2,29 @@
 
 ## 个人信息  
   北京|1996年生|前端工程师  
-  QQ:  13722357601  
-  GitHub:  github.com/lxz  
-## 项目经历  
-1.使命召唤人设页面（简单的页面）  
-  使用了Flex 布局制作的响应式页面。 
-  [查看](https://lxz096.github.io/esay-page/简单页面.html)
+  联系方式:  13722357601  
+  GitHub:  github.com/lxz
+  QQ:1535451212 
+  邮箱:1535451212@qq.com
+## 项目经历
+1.动漫人设页面（简单的页面）  
+  使用了原生js实现自动加载,懒加载,分页，预加载,Flex 布局制作的响应式页面。 
+  [点击查看](https://lxz096.github.io/esay-page/简单页面.html)
 2.canvas画板  
   使用原生 JS，借助 Canvas API 和动态 REM 方案（flexible.js）制作的手机画板。  
-  [查看](https://lxz096.github.io/canvas/画板.html)
-3.苹果风格的轮播组件（轮播）  
-  使用 jQuery 制作的苹果风格轮播。  
-4.英雄联盟官网仿制  
-  使用 jQuery、Slides.js、自制的 Tab 组件。  
+  [点击查看](https://lxz096.github.io/canvas/画板.html)
+3.动漫风格的普通轮播组件（轮播）  
+  使用 jQuery 制作的轮播。
+  [点击查看](https://lxz096.github.io/tabs-page/tabs选项卡.html)
+4.仿移动端的网易云音乐
+  使用原生js，jquery，json等实现了具有播放，暂停，动态显示歌词功能。使用json使其具有实时搜索点击并跳转相应的歌曲播放页面。
+  [点击查看](https://lxz096.github.io/music/home.html)
+## 其他
+1.[纯CSS熊猫动漫](https://lxz096.github.io/css-panda/熊猫.html)
+## 更多
+1.[知乎](https://www.zhihu.com/people/lxz96/posts)
+2.[GitHub](https://github.com/lxz096/blog/issues)
+
 ## 我的技能  
 * 静态页面制作技术  
   可以实现响应式以适应手机屏幕。  
